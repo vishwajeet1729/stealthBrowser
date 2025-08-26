@@ -1,0 +1,1 @@
+cl /EHsc /std:c++17 main.cpp /I "C:/Users/Vishwajeet/Downloads/void_main/fuck_interview/wil/include" /I "C:/Users/Vishwajeet/Downloads/microsoft.web.webview2.1.0.3351.48/build/native/include" /link user32.lib ole32.lib gdi32.lib windowsapp.lib gdiplus.lib "C:/Users/Vishwajeet/Downloads/microsoft.web.webview2.1.0.3351.48/build/native/x64/WebView2LoaderStatic.lib" /out:stealth.exe
